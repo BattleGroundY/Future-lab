@@ -7,6 +7,4 @@
 ***
 ## 1기 - 22명 (2018.04~)
 ***
-<img width="480" height="360">
-![Alt text](/image/20180415i.jpg)
-</img>
+<img width="480" height="360">![Alt text](/image/20180415i.jpg)</img>
