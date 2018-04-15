@@ -7,4 +7,8 @@
 ***
 ## 1기 - 22명 (2018.04~)
 ***
+### 1기 OT  
 <img src="/image/20180415i.jpg" width="480" height="360">
+***
+### Coursera Certifiacte
+<img src="/image/Neural Networks and Deep Learning.png" width="480" height="372">
