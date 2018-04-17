@@ -4,6 +4,8 @@
 
 ### 동료와 함께 딥러닝을 공부, 연구하는 연구소입니다.
 
+### Sung Kim 교수님의 모두를 위한 딥러닝 강좌,  Andrew Ng 의 DeepLearning Specialization (Coursera) 로 study 가 진행됩니다.
+
 ***
 ## 1기 - 22명 (2018.04~)
 ***
