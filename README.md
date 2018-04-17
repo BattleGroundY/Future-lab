@@ -1,5 +1,4 @@
-﻿﻿
-# 미래연구소
+﻿﻿# 미래연구소
 
 ***
 ## WE ARE GUIDE TO STUDY DEEP LEARNING
