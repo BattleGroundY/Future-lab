@@ -461,7 +461,7 @@ db = 1 / m 곱하기 np.sum (dz)가
 
 102
 00 : 07 : 43.328 -> 00 : 07 : 49.120
-이제 여러분은 front propagation과 
+이제 여러분은 foward propagation과 
 back propagation을 한 것입니다
 
 103
